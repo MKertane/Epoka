@@ -1,0 +1,9 @@
+(mtJour x km) + mtKM x (fin - debut)
+
+tables dont j'aurais besoin : parametres, trajet, mission
+
+colonnes dont j'aurais besoin pour parametres : mtJour, mtKM
+
+colonnes dont j'aurais besoin pour trajet : km
+
+colonnes dont j'aurais besoin pour mission : debut, fin
